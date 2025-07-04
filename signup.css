@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-color: burlywood;
+}
+
+.log{
+    width: 600px;
+    height: 470px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+.form-e{
+    margin-bottom: 70px;
+    
+}
+
+.form-p{
+    margin-bottom: 80px;
+   
+}
+
+.btn{
+    width: 100%;
+    height: 4vh;
+    border-radius: 8px;
+    background-color: green;
+    font-size: larger;
+}
+.form-n{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    font-size:xx-large
+}

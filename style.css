@@ -1,0 +1,35 @@
+*{
+    background-image: url("https://img.freepik.com/premium-photo/mockup-pedestal-product-presentation-blue-background-3d-render-3d-illustration_410312-424.jpg?semt=ais_items_boosted&w=740");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.sign{
+    margin-left: 500px;
+    margin-top: 200px;
+} 
+
+.right{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width:0;
+    height: 0;
+    border-top: 50vh solid transparent;
+    border-bottom: 50vh solid transparent;
+    border-right: 28.1vw solid yellow;
+}
+
+.left{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:0;
+    height: 0;
+    border-top: 50vh solid transparent;
+    border-bottom: 50vh solid transparent;
+    border-left: 28.1vw solid #6495ed;
+}
+
