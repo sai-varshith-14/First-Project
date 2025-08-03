@@ -81,13 +81,6 @@ app.post('/signup',async (req,res)=>{
 
 });
 
-app.get('/login.html', (req, res) => {
-    
-});
-
-app.get('/', (req, res) => {
-     
-});
 
 
 app.listen(3000,()=>{
